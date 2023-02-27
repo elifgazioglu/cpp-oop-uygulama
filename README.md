@@ -1,4 +1,4 @@
-﻿# cpp-oop-uygulama
+﻿# Nesneye Yönelik Programlama(C++) dönem ödevi👩🏻‍💻
 
 - [x]  BM104_OgrenciNumaraniz_Proje1 Adinda sınıf oluştur.
 - [x]  BM104_OgrenciNumaraniz_Proje1.h isimli başlık dosyasında sınıfın objelerini tanımla.
